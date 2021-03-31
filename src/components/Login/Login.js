@@ -17,6 +17,7 @@ export default function Login(props) {
       props.history.push("/property");
     }
   };
+  console.log("user", user);
   return (
     <div className="login-buttons">
       <button className="login-provider-button" onClick={signIn}>
