@@ -55,7 +55,7 @@ export default class HeroDisplayBuy extends Component {
                   src="https://s.zillowstatic.com/homepage/static/upsell_agent_icon.svg"
                 />
                 <strong>Be ready to buy</strong>
-                <span>Get pre-qualified by a local lender on Trillio.</span>
+                <span>Get pre-qualified by a local lender.</span>
               </a>
               <a href="/property" className="upsell-button zsg-button_primary">
                 Get started
